@@ -55,7 +55,7 @@ const Robot = ({ size }) => {
     }
     return cells;
   };
-console.log(direction,"direction")
+
   return (
     <>
       <div className="controls">
